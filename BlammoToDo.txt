@@ -1,0 +1,73 @@
+Interlocking rooms and halls
+	bunch of peices that we can tag
+	each has 1:M doors
+	At run time we try to squeeze stuff in if we can
+	if we cant, close the door?
+build LOTS OF ROOMS we can choose from at runtime
+	including stairs!
+
+	
+LEVEL
+	Randomly change direction when hit an object for darts
+		more random flying after collision!
+	Build the abstract school level!!!!
+		start with a desk!  fun physics chance there
+		quesitonable shooting in school
+		cna we crib from another brick in the wall video?  some undergtround re-reducation?
+		LEAN INTO ABSTRACT?
+	Other kid stuff
+		Baseball field
+		arcade
+		rollerrink
+		mall		
+		Can we lean into 80s?
+	think of why th elevel goes abstract!!!
+	maybe we CAN work into some vampire survivor themes as a SUB theme of the overall
+	Shared universe wikth mytho?
+		
+Can we mix jet set radio flat cel shaded with spooky?
+
+Blammo
+
+Nerf Guns
+Dog falls into hole and you have to go save him
+Sewer to mines to caves to underground temple to void
+meaningful reasons to find new guns underground
+Pixely-art, geometricish shapes
+
+cant explode/bleed, can we ragdoll a lot?
+
+Shotgun!  
+
+round darts!
+
+!!!!BUG WEIRD ARMS  its the colliders on the body, part of the ragdoll, but why?
+
+Vaccuum!  Snoop up all the bullets!
+
+!!! weird rotation to pattern
+	has to do with fire SPAWN radius, does not happen when we dont have that
+	
+	
+can we use navmesh for getting around?
+
+
+BETTER STANDUP
+	Ragdoll is looking better
+	Need to move poisition to HIP
+		store the default hip offset at some point, maybe on the first stand?
+		Bake it in?
+			Working, sorta
+	NEed to also factor in rotation for the rotating body?
+		can we figure out how to get JUST the y rotation and bake it in?
+
+
+
+shotgun
+	limit shots
+camera jerk on fire
+	curve rot, curve with aimation fade out
+better gnome clothes
+firest level
+add darkness?
+vaccuum
