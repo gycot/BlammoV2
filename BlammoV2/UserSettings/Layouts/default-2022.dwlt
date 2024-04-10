@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -834,9 +834,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -19.00127, y: 7.8177543, z: 0.25280833}
+    m_Target: {x: 5.913935, y: -4.679237, z: -2.623142}
     speed: 2
-    m_Value: {x: -19.00127, y: 7.8177543, z: 0.25280833}
+    m_Value: {x: 5.913935, y: -4.679237, z: -2.623142}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -882,9 +882,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12828186, y: 0.84822106, z: -0.23914081, w: 0.45493647}
+    m_Target: {x: -0.026886288, y: -0.7719356, z: 0.032653935, w: -0.6343731}
     speed: 2
-    m_Value: {x: 0.12828186, y: 0.848221, z: -0.2391408, w: 0.45493647}
+    m_Value: {x: -0.026884904, y: -0.7718958, z: 0.032652255, w: -0.63434047}
   m_Size:
     m_Target: 10
     speed: 2
@@ -950,9 +950,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0e5f0000
-      m_LastClickedID: 24334
-      m_ExpandedIDs: 18fbffff
+      m_SelectedIDs: aa5c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 82f8ffffe6faffff3c5f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -968,7 +968,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -1021,7 +1021,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/BlammoGameMeshes/Levels/Arcade
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1029,16 +1029,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/BlammoGameMeshes/Levels/Arcade
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Git\BlammoV2\BlammoV2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 127}
-    m_SelectedIDs: 96620000
-    m_LastClickedID: 25238
-    m_ExpandedIDs: 000000008062000000ca9a3bffffff7f
+    m_SelectedIDs: e2620000
+    m_LastClickedID: 25314
+    m_ExpandedIDs: 00000000a8620000b6620000e462000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1066,7 +1066,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080620000
+    m_ExpandedIDs: 00000000a8620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1093,8 +1093,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c62300007e6c000000000000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c62300007e6c00000000000028210000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
